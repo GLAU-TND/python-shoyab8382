@@ -8,4 +8,3 @@ def xyz(a,b):
 a=int(input())
 b=int(input())
 xyz(a,b)
-
